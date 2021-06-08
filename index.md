@@ -8,6 +8,9 @@ The project includes a [public workshop with ZKM as part of the Critical Zones e
 
 For more on the use of digital data and devices to cultivate sensibilities towards trees and forests, see the Critical Zones [field book](https://zkm.de/media/file/en/cz_fieldbook_digital_en.pdf) and [catalogue](https://mitpress.mit.edu/books/critical-zones), including this chapter on [“The Datafication of Forests”](https://jonathangray.org/wp-content/uploads/2020/05/Gray_DataficationTrees.pdf).
 
+![](https://i.imgur.com/w1xSpNg.jpg)
+[*Sound Sketch - Forest Rain*](https://www.lizkmiller.com/post/soundsketching-rain-on-dry-earth) - [Liz K. Miller](https://www.lizkmiller.com/)
+
 ## 🎧  Four Modes of Forest Listening
 
 ⚠️  *The following audio sequences are part of a prototype for testing and feedback that will be further refined, developed and produced after the workshop with ZKM.*
