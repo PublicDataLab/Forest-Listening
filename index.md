@@ -38,12 +38,12 @@ For outdoor listening excursions you may wish to load the audio sequences onto y
   - On **iOS devices** you could download and play using a music app of your choice (e.g. the default "Music" player), a podcast player (e.g. [Pocket Casts](https://www.pocketcasts.com/podcast-player/)) or you could use an audiobook app like the free/open-source [BookPlayer](https://github.com/TortugaPower/BookPlayer) which enables [files to be imported](https://github.com/TortugaPower/BookPlayer/wiki/FAQ).
 </details>
 
+
 <details>
   <summary>For Android devices</summary>
   
   - On **Android devices** you could download the files onto your phone and play using your default music app (as configured in "Settings" > "Apps") or you could use a podcast player (e.g. [Pocket Casts](https://www.pocketcasts.com/podcast-player/)).
 </details>
-
 
 
 ## 🗂  Forest Listening Index
@@ -58,6 +58,7 @@ Further projects, practices, readings and resources on forest listening. If you 
   - [A Shinrin-yoku Virtual Forest Bathing Walk on The High Line](https://www.girlgottahike.com/podcast/ggh-podcast-episode-8-a-virtual-forest-bathing-shinrin-yoku-walk-on-the-high-line-in-new-york-city) by Brooke Mellen - *"The episode starts us off by leaving Brooke’s apartment in a busy high rise mid-town neighborhood, full of construction noises and stress and when it ends, we’ll be feeling relaxed and in touch with the sounds of birdsong amongst the birch trees down in the historic meatpacking district at the south end of the High Line."*
   - [Forest bathing 360 videos](https://www.youtube.com/watch?v=o1Ilf7u9ZcY&list=PLGkoHMoA3GooGCnn0g_FtxpG5rHzfEyTI&index=3) - *"360-degree forest bathing video playlist from Forestry England"*
 </details>
+
 
 ### 🎙 Field Recording
 
@@ -91,6 +92,7 @@ Further projects, practices, readings and resources on forest listening. If you 
   - [Wild Sanctuary](https://www.wildsanctuary.com/index.html) by Bernie Krause - *"Since 1968, Wild Sanctuary has traveled the globe to record, archive, research, and express the voice of the natural world - its soundscape. These increasingly rare sounds of the wild inform and enrich our specialized efforts from the field to public performance."*
   - [蛙蛙哇 ! Songs of the Frogs of Taiwan vol​.​1](https://kalerne.bandcamp.com/album/songs-of-the-frogs-of-taiwan-vol-1) by Yannick Dauby - *"This 68 minutes long Compact-Disc contains the songs of 16 amongst the 32 species of frogs that inhabit the island."*
 </details>
+
 
 ### 🔊 Sonification
 
@@ -133,6 +135,7 @@ Further projects, practices, readings and resources on forest listening. If you 
   - [Thus Spoke the Plant](https://www.penguinrandomhouse.com/books/576914/thus-spoke-the-plant-by-monica-gagliano/) by [Monica Gagliano](https://www.monicagagliano.com/) - *"An accessible and compelling story of a scientist’s discovery of plant communication and how it influenced her research and changed her life."*
   - [Voice of Trees](https://thevoiceoftrees.weebly.com/about.html) by Giovanna Iorio - *"Welcome to "Voice of Trees", sound installations in the landscape by sound artist Giovanna Iorio."*
 </details>
+
 
 ### 🌱 Credits
 
