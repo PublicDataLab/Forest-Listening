@@ -65,7 +65,6 @@ Further projects, practices, readings and resources on forest listening. If you 
 <details>
   <summary>Click to explore more forest field recording projects and practices</summary>
   
-
   - [Autumn Walk Soundscape Generator](https://mynoise.net/NoiseMachines/autumnWalkSoundscapeGenerator.php) - *"This invigorating ambiance was recorded in the Geographic Arboretum of Tervuren, a Belgian botanical garden composed of trees from the temperate climate zone of the Northern Hemisphere. The sounds of wind are created and shaped by its obstacles, and – on a windy day – the Arboretum is a great place to record a variety of sounds."*
   - [Ecosounds](https://www.ecosounds.org/) from [QUT Ecoacoustics Research Group](https://research.ecosounds.org/) - *"Ecosounds is a repository of environmental audio recordings. This website facilitates the management, access, visualization, and analysis of environmental acoustic data."*
   - [Edge of the Forest](https://www.nts.live/shows/edge-of-a-forest) - *"Antoine Bertin weaves together field recordings and sonifications of data he collects around the world. Wandering in its own meditative way on the edge of science, technology and sound, the radio show explores where forests begin and when they end."*
