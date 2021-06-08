@@ -7,5 +7,3 @@ Engaging with themes in the [Critical Zones exhibition and catalogue](https://zk
 The project includes a [public workshop with ZKM as part of the Critical Zones exhibition](https://zkm.de/en/guidedtour-workshop/2021/06/total-gaia-digital-0) to explore and compare different approaches and the possibilities and limits of forest experiences under current sensing conditions between immediacy and mediation.
 
 For more on the use of digital data and devices to cultivate sensibilities towards trees and forests, see the Critical Zones [field book](https://zkm.de/media/file/en/cz_fieldbook_digital_en.pdf) and [catalogue](https://mitpress.mit.edu/books/critical-zones), including this chapter on [“The Datafication of Forests”](https://jonathangray.org/wp-content/uploads/2020/05/Gray_DataficationTrees.pdf).
-
-{% include audio.html %}
