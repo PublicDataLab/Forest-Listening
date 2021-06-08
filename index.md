@@ -10,13 +10,17 @@ For more on the use of digital data and devices to cultivate sensibilities towar
 
 ## 🎧  Four Modes of Forest Listening
 
-We have curated a series of audio sequences exploring four different modes: forest bathing, field recording, sonification and storytelling.
+⚠️  *The following audio sequences are part of a prototype for testing and feedback that will be further refined, developed and produced after the workshop with ZKM.*
+
+We have curated a series of audio sequences exploring four different modes:
+- forest bathing
+- field recording
+- sonification
+- storytelling
 
 Each sequence contains a brief introduction followed by several exercises, practices or projects for you to explore.
 
-These are intended to be listened to in a forest, park or garden, and can be done individually or in a group. Our aim was to produce an audio piece which could be either undertaken in one listening session (of around 90 minutes) or in a series of separate listening sessions.
-
-⚠️  *The following audio sequences are part of a prototype for testing and feedback that will be further refined, developed and produced after the workshop with ZKM.*
+These are intended to be listened to in a forest, park or garden, and can be done individually or in a group. Our aim was to produce an audio piece which could be either undertaken in one listening session (of around 90-120 minutes) or in a series of separate listening sessions.
 
 - [Download zip file of all sequences](https://we.tl/t-kQWBNmSrx1)
 - [Playlist on SoundCloud](https://soundcloud.com/publicdatalab/sets/listening-to-forests/s-UnV2Cdfdsee)
