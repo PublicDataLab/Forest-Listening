@@ -48,7 +48,8 @@ On thinking along with these modes of forest listening you may consider:
 - What do you notice?
 - What is missing or absent?
 - What new or unfamiliar perspectives do they bring?
-- What can you learn from comparing them?
+- What can you learn from comparing or combining them?
+- How and to what ends might these listening practices be re-specified, modified and re-assembled?
 
 On the project, we’re interested in feedback on things like:
 - How did you find the sound segments?
