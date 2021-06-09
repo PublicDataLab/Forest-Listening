@@ -28,14 +28,14 @@ These are intended to be listened to in a forest, park or garden, and can be don
 - [Download zip file of all sequences](https://we.tl/t-kQWBNmSrx1)
 - [Playlist on SoundCloud](https://soundcloud.com/publicdatalab/sets/listening-to-forests/s-UnV2Cdfdsee)
 
+These four sequences are intended as an entry-point to begin exploring forest listening. They are intended to be illustrative, not comprehensive. We're keen to include other kinds of projects and practices in future phases of the project beyond these approaches (and if you have suggestions they'd be [very welcome](https://docs.google.com/forms/d/e/1FAIpQLScHUf2ixFpMu4PcGP0UgLsB3zYZd1AuMlYXcQRo9YYIZZWrNg/viewform?usp=sf_link)).
+
 ### 📦 What are the four sequences?
 
 - The first sequence explores **forest bathing** and contains a series of exercises gathered from guides, books and workshops.
 - The second sequence explores **field recording** and contains works from [Liz K. Miller](https://www.lizkmiller.com/) and [Andrés Saenz de Sicilia](https://villalontanarecords1.bandcamp.com/album/21-9-18).
 - The third sequence explores **sonification** and contains works from [Marcus Maeder](https://marcusmaeder.ch/), [Kate Donovan](https://mattersoftransmission.wordpress.com/), [Martin Howse](http://www.1010.co.uk/org/), [Lauren Oakes](https://leoakes.com/) and [Nik Sawe](http://www.niksawe.com/).
 - The fourth sequence explores **storytelling** and contains works from [Richard Powers](http://www.richardpowers.net/), [Anagram](https://weareanagram.co.uk/project/messages-to-a-post-human-earth), the [Visual Methodologies Collective](https://visualmethodologies.org/) and [Brian Harnetty](http://www.brianharnetty.com/).
-
-These four sequences are intended as an entry-point to begin exploring forest listening. They are intended to be illustrative, not comprehensive. We're keen to include other kinds of projects and practices in future phases of the project beyond these approaches (and if you have suggestions they'd be [very welcome](https://docs.google.com/forms/d/e/1FAIpQLScHUf2ixFpMu4PcGP0UgLsB3zYZd1AuMlYXcQRo9YYIZZWrNg/viewform?usp=sf_link)).
 
 ### ❓ How can I provide thoughts, feedback or suggestions?
 
