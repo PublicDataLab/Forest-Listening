@@ -35,6 +35,28 @@ These are intended to be listened to in a forest, park or garden, and can be don
 - The third sequence explores **sonification** and contains works from [Marcus Maeder](https://marcusmaeder.ch/), [Kate Donovan](https://mattersoftransmission.wordpress.com/), [Martin Howse](http://www.1010.co.uk/org/), [Lauren Oakes](https://leoakes.com/) and [Nik Sawe](http://www.niksawe.com/).
 - The fourth sequence explores **storytelling** and contains works from [Richard Powers](http://www.richardpowers.net/), [Anagram](https://weareanagram.co.uk/project/messages-to-a-post-human-earth), the [Visual Methodologies Collective](https://visualmethodologies.org/) and [Brian Harnetty](http://www.brianharnetty.com/).
 
+These four sequences are intended as an entry-point to begin exploring forest listening. They are intended to be illustrative, not comprehensive. We're keen to include other kinds of projects and practices in future phases of the project beyond these approaches (and if you have suggestions they'd be [very welcome](https://docs.google.com/forms/d/e/1FAIpQLScHUf2ixFpMu4PcGP0UgLsB3zYZd1AuMlYXcQRo9YYIZZWrNg/viewform?usp=sf_link)).
+
+### ❓ How can I provide thoughts, feedback or suggestions?
+
+We're very interested in hearing about your experiences of forest listening, these sequences and how we might further develop and improve the project.
+
+On thinking along with these modes of forest listening you may consider:
+- What does it mean to listen to forests?
+- What is forest listening according to these projects and practices?
+- How do different practices guide and shape your attention to trees and forests in different ways?
+- What do you notice?
+- What is missing or absent?
+- What new or unfamiliar perspectives do they bring?
+- What can you learn from comparing them?
+
+On the project, we’re interested in feedback on things like:
+- How did you find the sound segments?
+- What other projects or practices we could add (whether to audio sequences or to the forest listening index below)?
+- Would you consider doing this again? Would you be willing to explore and try out future things from this project?
+
+You can [share your thoughts with this form](https://forms.gle/vj8pCKUGnNLqmD1s8) or send us an email (and suggest new projects to add [here](https://docs.google.com/forms/d/e/1FAIpQLScHUf2ixFpMu4PcGP0UgLsB3zYZd1AuMlYXcQRo9YYIZZWrNg/viewform?usp=sf_link)).
+
 ### 📲 How can I get them onto my device?
 
 For outdoor listening excursions you may wish to load the audio sequences onto your phone or other device (e.g. MP3 player).
@@ -55,7 +77,7 @@ For outdoor listening excursions you may wish to load the audio sequences onto y
 
 ## 🗂  Forest Listening Index
 
-Further projects, practices, readings and resources on forest listening. If you have a suggestion for a project to add, you can [fill in this form](https://docs.google.com/forms/d/e/1FAIpQLScHUf2ixFpMu4PcGP0UgLsB3zYZd1AuMlYXcQRo9YYIZZWrNg/viewform?usp=sf_link), [add an issue to the repository](https://github.com/PublicDataLab/Forest-Listening/issues) or [create a pulll request](https://github.com/PublicDataLab/Forest-Listening/pulls).
+Further projects, practices, readings and resources on forest listening. If you have a suggestion for a project to add, you can [fill in this form](https://docs.google.com/forms/d/e/1FAIpQLScHUf2ixFpMu4PcGP0UgLsB3zYZd1AuMlYXcQRo9YYIZZWrNg/viewform?usp=sf_link).
 
 ### 🏊🏼‍♀️ Forest Bathing
 
