@@ -33,7 +33,7 @@ These four sequences are intended as an entry-point to begin exploring forest li
 ### 📦 What are the four sequences?
 
 - The first sequence explores **forest bathing** and contains a series of exercises gathered from guides, books and workshops.
-- The second sequence explores **field recording** and contains works from [Liz K. Miller](https://www.lizkmiller.com/), [Andrés Saenz de Sicilia](https://villalontanarecords1.bandcamp.com/album/21-9-18) and [Brian House]()
+- The second sequence explores **field recording** and contains works from [Liz K. Miller](https://www.lizkmiller.com/), [Andrés Saenz de Sicilia](https://villalontanarecords1.bandcamp.com/album/21-9-18) and [Brian House](https://brianhouse.net).
 - The third sequence explores **sonification** and contains works from [Marcus Maeder](https://marcusmaeder.ch/), [Kate Donovan](https://mattersoftransmission.wordpress.com/), [Martin Howse](http://www.1010.co.uk/org/), [Lauren Oakes](https://leoakes.com/) and [Nik Sawe](http://www.niksawe.com/).
 - The fourth sequence explores **storytelling** and contains works from [Richard Powers](http://www.richardpowers.net/), [Anagram](https://weareanagram.co.uk/project/messages-to-a-post-human-earth), the [Visual Methodologies Collective](https://visualmethodologies.org/) and [Brian Harnetty](http://www.brianharnetty.com/).
 
