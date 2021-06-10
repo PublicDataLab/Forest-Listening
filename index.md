@@ -25,7 +25,7 @@ Each sequence contains a brief introduction followed by several exercises, pract
 
 These are intended to be listened to in a forest, park or garden, and can be done individually or in a group. Our aim was to produce an audio piece which could be either undertaken in one listening session (of around 90-120 minutes) or in a series of separate listening sessions.
 
-- [Download zip file of all sequences](https://we.tl/t-kQWBNmSrx1)
+- [Download zip file of all sequences](https://we.tl/t-ZfmDg3NBQZ)
 - [Playlist on SoundCloud](https://soundcloud.com/publicdatalab/sets/listening-to-forests/s-UnV2Cdfdsee)
 
 These four sequences are intended as an entry-point to begin exploring forest listening. They are intended to be illustrative, not comprehensive. We're keen to include other kinds of projects and practices in future phases of the project beyond these approaches (and if you have suggestions they'd be [very welcome](https://forms.gle/Zz125ydAoqFc6coe9)).
