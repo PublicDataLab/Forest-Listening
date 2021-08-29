@@ -16,26 +16,26 @@ For more on the use of digital data and devices to cultivate sensibilities towar
 ⚠️  *The following audio sequences are part of a prototype for testing and feedback that will be further refined, developed and produced after the workshop with ZKM.*
 
 We have curated a series of audio sequences exploring four different modes:
-- forest bathing
-- field recording
-- sonification
-- storytelling
+- [forest bathing](https://soundcloud.com/publicdatalab/1-shinrin-yoku)
+- [field recording](https://soundcloud.com/publicdatalab/2-field-recording)
+- [sonification](https://soundcloud.com/publicdatalab/3-sonification)
+- [storytelling](https://soundcloud.com/publicdatalab/4-storytelling)
 
 Each sequence contains a brief introduction followed by several exercises, practices or projects for you to explore.
 
 These are intended to be listened to in a forest, park or garden, and can be done individually or in a group. Our aim was to produce an audio piece which could be either undertaken in one listening session (of around 90-120 minutes) or in a series of separate listening sessions.
 
-- [Download zip file of all sequences](https://we.tl/t-ZfmDg3NBQZ)
-- [Playlist on SoundCloud](https://soundcloud.com/publicdatalab/sets/listening-to-forests/s-UnV2Cdfdsee)
+- 📥 [Download zip file of all sequences](https://archive.org/compress/listening-to-forests/formats=VBR%20MP3&file=/listening-to-forests.zip)
+- ⏯ [Playlist on SoundCloud](https://soundcloud.com/publicdatalab/sets/listening-to-forests)
 
 These four sequences are intended as an entry-point to begin exploring forest listening. They are intended to be illustrative, not comprehensive. We're keen to include other kinds of projects and practices in future phases of the project beyond these approaches (and if you have suggestions they'd be [very welcome](https://forms.gle/Zz125ydAoqFc6coe9)).
 
 ### 📦 What are the four sequences?
 
-- The first sequence explores **forest bathing** and contains a series of exercises gathered from guides, books and workshops.
-- The second sequence explores **field recording** and contains works from [Liz K. Miller](https://www.lizkmiller.com/), [Andrés Saenz de Sicilia](https://villalontanarecords1.bandcamp.com/album/21-9-18) and [Brian House](https://brianhouse.net).
-- The third sequence explores **sonification** and contains works from [Marcus Maeder](https://marcusmaeder.ch/), [Kate Donovan](https://mattersoftransmission.wordpress.com/), [Martin Howse](http://www.1010.co.uk/org/), [Lauren Oakes](https://leoakes.com/) and [Nik Sawe](http://www.niksawe.com/).
-- The fourth sequence explores **storytelling** and contains works from [Richard Powers](http://www.richardpowers.net/), [Anagram](https://weareanagram.co.uk/project/messages-to-a-post-human-earth), the [Visual Methodologies Collective](https://visualmethodologies.org/) and [Brian Harnetty](http://www.brianharnetty.com/).
+- The [first sequence](https://soundcloud.com/publicdatalab/1-shinrin-yoku) explores **forest bathing** and contains a series of exercises gathered from guides, books and workshops.
+- The [second sequence](https://soundcloud.com/publicdatalab/2-field-recording) explores **field recording** and contains works from [Liz K. Miller](https://www.lizkmiller.com/), [Andrés Saenz de Sicilia](https://villalontanarecords1.bandcamp.com/album/21-9-18) and [Brian House](https://brianhouse.net).
+- The [third sequence](https://soundcloud.com/publicdatalab/3-sonification) explores **sonification** and contains works from [Marcus Maeder](https://marcusmaeder.ch/), [Kate Donovan](https://mattersoftransmission.wordpress.com/), [Martin Howse](http://www.1010.co.uk/org/), [Lauren Oakes](https://leoakes.com/) and [Nik Sawe](http://www.niksawe.com/).
+- The [fourth sequence](https://soundcloud.com/publicdatalab/4-storytelling) explores **storytelling** and contains works from [Richard Powers](http://www.richardpowers.net/), [Anagram](https://weareanagram.co.uk/project/messages-to-a-post-human-earth), the [Visual Methodologies Collective](https://visualmethodologies.org/) and [Brian Harnetty](http://www.brianharnetty.com/).
 
 ### ❓ How can I provide thoughts, feedback or suggestions?
 
@@ -172,4 +172,4 @@ Further projects, practices, readings and resources on forest listening. If you 
 
 ### 🌱 Credits
 
-This project was initiated by [Jonathan Gray](http://jonathangray.org/) and [Birgit Schneider](https://www.uni-potsdam.de/en/medienoekologie/index/people) with the [Public Data Lab](http://publicdatalab.org/) to coincide with a [workshop](https://zkm.de/en/guidedtour-workshop/2021/06/total-gaia-digital-0) at the [Critical Zones exhibition at ZKM, Karlsruhe](https://zkm.de/en/exhibition/2020/05/critical-zones). The audio sequences are narrated by [Renee-Marie Pizzardi](https://publicdatalab.org/people/renee-marie-pizzardi/). The forest listening sequences and the index were developed with input and contributions from [Anagram](https://weareanagram.co.uk/), [Andrés Saenz de Sicilia](https://villalontanarecords1.bandcamp.com/album/21-9-18), [Brian Harnetty](http://www.brianharnetty.com/), [Brian House](https://brianhouse.net/), [Carlo De Gaetano](https://www.carlodegaetano.com/), [Ginevra Terenghi](https://twitter.com/ginevraterenghi), [Kate Donovan](https://mattersoftransmission.wordpress.com/), [Lauren Oakes](https://leoakes.com/), [Liliana Bounegru](http://lilianabounegru.org), [Liz K. Miller](https://www.lizkmiller.com/), [Marcus Maeder](https://marcusmaeder.ch/), [Martin Howse](http://www.1010.co.uk/org/), [Maya Livio](https://mayalivio.com/), [Natalia Sánchez-Querubín](https://www.uva.nl/en/profile/s/a/n.sanchezquerubin/n.sanchezquerubin.html), [Nik Sawe](http://www.niksawe.com/), [Rina Tsubaki](https://twitter.com/wildflyingpanda), [Sabine Niederer](http://www.niederer.info/), [Sara Lenzi](https://www.saralenzi.com/) and the [Visual Methodologies Collective](https://visualmethodologies.org/). The sonification examples in the index draw on Sara Lenzi's research for the [Data Sonification Archive](https://sonification.design/).
+This project was initiated by [Jonathan Gray](http://jonathangray.org/) and [Birgit Schneider](https://www.uni-potsdam.de/en/medienoekologie/index/people) with the [Public Data Lab](http://publicdatalab.org/) to coincide with a [workshop](https://zkm.de/en/guidedtour-workshop/2021/06/total-gaia-digital-0) at the [Critical Zones exhibition at ZKM, Karlsruhe](https://zkm.de/en/exhibition/2020/05/critical-zones). The audio sequences are narrated by [Renee-Marie Pizzardi](https://publicdatalab.org/people/renee-marie-pizzardi/) and produced by [Andrés Saenz de Sicilia](https://villalontanarecords1.bandcamp.com/album/21-9-18). The forest listening sequences and the index were developed with input and contributions from [Anagram](https://weareanagram.co.uk/), [Andrés Saenz de Sicilia](https://villalontanarecords1.bandcamp.com/album/21-9-18), [Brian Harnetty](http://www.brianharnetty.com/), [Brian House](https://brianhouse.net/), [Carlo De Gaetano](https://www.carlodegaetano.com/), [Ginevra Terenghi](https://twitter.com/ginevraterenghi), [Kate Donovan](https://mattersoftransmission.wordpress.com/), [Lauren Oakes](https://leoakes.com/), [Liliana Bounegru](http://lilianabounegru.org), [Liz K. Miller](https://www.lizkmiller.com/), [Marcus Maeder](https://marcusmaeder.ch/), [Martin Howse](http://www.1010.co.uk/org/), [Maya Livio](https://mayalivio.com/), [Natalia Sánchez-Querubín](https://www.uva.nl/en/profile/s/a/n.sanchezquerubin/n.sanchezquerubin.html), [Nik Sawe](http://www.niksawe.com/), [Rina Tsubaki](https://twitter.com/wildflyingpanda), [Sabine Niederer](http://www.niederer.info/), [Sara Lenzi](https://www.saralenzi.com/) and the [Visual Methodologies Collective](https://visualmethodologies.org/). The sonification examples in the index draw on Sara Lenzi's research for the [Data Sonification Archive](https://sonification.design/).
