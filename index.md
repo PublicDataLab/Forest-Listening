@@ -1,6 +1,7 @@
 # 🌳 Ways of Listening to Forests
 
-How can we sense and make sense of forests with devices, techniques and our bodies? How might we cultivate an interdisciplinary [“arts of noticing” (Tsing)](https://press.princeton.edu/books/paperback/9780691178325/the-mushroom-at-the-end-of-the-world) for attending to forests and their role in critical zones?
+How can we sense and make sense of forests with devices, techniques and our bodies? How might we cultivate an interdisciplinary [“arts of noticing” (Tsing)](
+https://press.princeton.edu/books/paperback/9780691220550/the-mushroom-at-the-end-of-the-world) for attending to forests and their role in critical zones?
 
 Engaging with themes in the [Critical Zones exhibition and catalogue](https://zkm.de/en/exhibition/2020/05/critical-zones) curated by [Bruno Latour](http://www.bruno-latour.fr/) and [Peter Weibel](https://zkm.de/en/person/peter-weibel), this project explores different ways of listening to forests, drawing on different traditions, techniques, methods, media and approaches – from “Shinrin Yoku” (forest bathing) to sensing devices, data sonification to sound walks and storytelling.
 
