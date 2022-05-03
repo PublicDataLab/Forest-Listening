@@ -126,7 +126,8 @@ Further projects, practices, readings and resources on forest listening. If you 
   - [Underneath the Forest Soundscape](https://www.nlindt.com/soundscapes-beneath-the-forest) by Nikki Lindt - *"A soundscape made with recordings from underground at the Hubbard Brook Experimental Forest (in collaboration with scientist Lindsey Rustad) in the summer of 2019. This piece explores the movement in the navigation system under the forest floor."*
   - [Wild Sanctuary](https://www.wildsanctuary.com/index.html) by Bernie Krause - *"Since 1968, Wild Sanctuary has traveled the globe to record, archive, research, and express the voice of the natural world - its soundscape. These increasingly rare sounds of the wild inform and enrich our specialized efforts from the field to public performance."*
   - [蛙蛙哇 ! Songs of the Frogs of Taiwan vol​.​1](https://kalerne.bandcamp.com/album/songs-of-the-frogs-of-taiwan-vol-1) by Yannick Dauby - *"This 68 minutes long Compact-Disc contains the songs of 16 amongst the 32 species of frogs that inhabit the island."*
-  - [ASU Acoustic Ecology Lab](https://acousticecologylab.org/) - *a forum for interdisciplinary collaboration to examine sonic environments through intersections between the arts, sciences, humanities and new technologies*
+  - [ASU Acoustic Ecology Lab](https://acousticecologylab.org/) - *"a forum for interdisciplinary collaboration to examine sonic environments through intersections between the arts, sciences, humanities and new technologies"*
+  - [Listening to a Tree](https://theonetreeproject.org/2017/03/15/listening-to-a-tree/) - *"the recorded audio ... places us in the sonic space of the tree"*
 </details>
 
 
