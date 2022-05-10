@@ -128,6 +128,7 @@ Further projects, practices, readings and resources on forest listening. If you 
   - [蛙蛙哇 ! Songs of the Frogs of Taiwan vol​.​1](https://kalerne.bandcamp.com/album/songs-of-the-frogs-of-taiwan-vol-1) by Yannick Dauby - *"This 68 minutes long Compact-Disc contains the songs of 16 amongst the 32 species of frogs that inhabit the island."*
   - [ASU Acoustic Ecology Lab](https://acousticecologylab.org/) - *"a forum for interdisciplinary collaboration to examine sonic environments through intersections between the arts, sciences, humanities and new technologies"*
   - [Listening to a Tree](https://theonetreeproject.org/2017/03/15/listening-to-a-tree/) - *"the recorded audio ... places us in the sonic space of the tree"*
+  - [Salvaging Birds](https://mayalivio.com/SALVAGING-BIRDS) by Maya Livio - *By examining sites such as natural history specimen collections, as well as by speculatively queering birdsong datasets, the work complicates datafied approaches to conserving what and who is left of our world.*
 </details>
 
 
