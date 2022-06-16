@@ -7,7 +7,7 @@ Engaging with themes in the [Critical Zones exhibition and catalogue](https://zk
 
 The project includes a [public workshop with ZKM as part of the Critical Zones exhibition](https://zkm.de/en/guidedtour-workshop/2021/06/total-gaia-digital-0) to explore and compare different approaches and the possibilities and limits of forest experiences under current sensing conditions between immediacy and mediation.
 
-For more on the use of digital data and devices to cultivate sensibilities towards trees and forests, see the Critical Zones [field book](https://zkm.de/media/file/en/cz_fieldbook_digital_en.pdf) and [catalogue](https://mitpress.mit.edu/books/critical-zones), including this chapter on [“The Datafication of Forests”](https://jonathangray.org/wp-content/uploads/2020/05/Gray_DataficationTrees.pdf).
+For more on the use of digital data and devices to cultivate sensibilities towards trees and forests, see the Critical Zones [field book](https://zkm.de/media/file/en/cz_fieldbook_digital_en.pdf) and [catalogue](https://mitpress.mit.edu/books/critical-zones), including this chapter on [“The Datafication of Forests”](https://zenodo.org/record/6599025/files/Gray_DataficationTrees.pdf).
 
 ![](https://i.imgur.com/w1xSpNg.jpg)
 [*Sound Sketch - Forest Rain*](https://www.lizkmiller.com/post/soundsketching-rain-on-dry-earth) - [Liz K. Miller](https://www.lizkmiller.com/)
@@ -69,14 +69,14 @@ For outdoor listening excursions you may wish to load the audio sequences onto y
 
 <details>
   <summary>For iOS devices</summary>
-  
+
   - On **iOS devices** you could download and play using a music app of your choice (e.g. the default "Music" player), a podcast player (e.g. [Pocket Casts](https://www.pocketcasts.com/podcast-player/)) or you could use an audiobook app like the free/open-source [BookPlayer](https://github.com/TortugaPower/BookPlayer) which enables [files to be imported](https://github.com/TortugaPower/BookPlayer/wiki/FAQ).
 </details>
 
 
 <details>
   <summary>For Android devices</summary>
-  
+
   - On **Android devices** you could download the files onto your phone and play using your default music app (as configured in "Settings" > "Apps") or you could use a podcast player (e.g. [Pocket Casts](https://www.pocketcasts.com/podcast-player/)).
 </details>
 
@@ -89,7 +89,7 @@ Further projects, practices, readings and resources on forest listening. If you 
 
 <details>
   <summary>Click to explore more forest bathing projects and practices</summary>
-  
+
   - [A Shinrin-yoku Virtual Forest Bathing Walk on The High Line](https://www.girlgottahike.com/podcast/ggh-podcast-episode-8-a-virtual-forest-bathing-shinrin-yoku-walk-on-the-high-line-in-new-york-city) by Brooke Mellen - *"The episode starts us off by leaving Brooke’s apartment in a busy high rise mid-town neighborhood, full of construction noises and stress and when it ends, we’ll be feeling relaxed and in touch with the sounds of birdsong amongst the birch trees down in the historic meatpacking district at the south end of the High Line."*
   - [Forest bathing 360 videos](https://www.youtube.com/watch?v=o1Ilf7u9ZcY&list=PLGkoHMoA3GooGCnn0g_FtxpG5rHzfEyTI&index=3) - *"360-degree forest bathing video playlist from Forestry England"*
 </details>
@@ -99,7 +99,7 @@ Further projects, practices, readings and resources on forest listening. If you 
 
 <details>
   <summary>Click to explore more forest field recording projects and practices</summary>
-  
+
   - [Autumn Walk Soundscape Generator](https://mynoise.net/NoiseMachines/autumnWalkSoundscapeGenerator.php) - *"This invigorating ambiance was recorded in the Geographic Arboretum of Tervuren, a Belgian botanical garden composed of trees from the temperate climate zone of the Northern Hemisphere. The sounds of wind are created and shaped by its obstacles, and – on a windy day – the Arboretum is a great place to record a variety of sounds."*
   - [Ecosounds](https://www.ecosounds.org/) from [QUT Ecoacoustics Research Group](https://research.ecosounds.org/) - *"Ecosounds is a repository of environmental audio recordings. This website facilitates the management, access, visualization, and analysis of environmental acoustic data."*
   - [Edge of the Forest](https://www.nts.live/shows/edge-of-a-forest) - *"Antoine Bertin weaves together field recordings and sonifications of data he collects around the world. Wandering in its own meditative way on the edge of science, technology and sound, the radio show explores where forests begin and when they end."*
@@ -136,7 +136,7 @@ Further projects, practices, readings and resources on forest listening. If you 
 
 <details>
   <summary>Click to explore more sonification projects and practices</summary>
-  
+
   - [An empty stream, a great silence, and impenetrable forest](https://www.youtube.com/watch?v=q3nb-97PLRc) by Sara Lenzi, Stefano Silvestri and Giosué Grassia - *"This is a data sonification project developed during the art residency “Liminaria 2017” in the Fortore area, in Campania, Italy. The sonification aurally simulates possible scenarios of the uncontrolled growth of forests, a key problem in the management of central and Southern Italy’s territory also due to the concurrent emergences of ‘ghost’ villages in the same area. Data on existing flora were collected during the art residency and mapped to sound ‘micro-samples’ recorded in the area."* *From the [Data Sonification Archive](http://sonification.design).*
   - [BOTSOT](http://www.ciaranframe.com/botsot) - *"BOTSOT is the Botanical Sonification Toolbox – a series of tools and instruments made for Max that explore invisible communications, information and structures within plant species, all through the sonification of data and plants’ environments."*
   - [Ecodata – Ecomedia – Ecoaesthetics](https://www.fhnw.ch/de/die-fhnw/hochschulen/hgk/institute/institut-asthetische-praxis-und-theorie/forschung/ecodata-ecomedia-ecoaesthetics) by [Marcus Maeder](https://marcusmaeder.ch/) - *"Ecodata–Ecomedia–Ecoaesthetics investigates new media, technologies and technoscientific methods (registering, collecting and interpreting data) in the arts in view of understanding their role and significance for the perception and awareness of the ecological."*
@@ -161,7 +161,7 @@ Further projects, practices, readings and resources on forest listening. If you 
 
 <details>
   <summary>Click to explore more forest storytelling projects and practices</summary>
-  
+
   - [All Gone](https://visualmethodologies.org/All-Gone) from [Visual Methodologies Collective](https://visualmethodologies.org/) - *"a series of experiments with AI that build on existing collections of climate fiction to create new climate imaginaries. ... Using collections of ‘cli-fi’ novels, in which science fiction meets natural disaster or heavy weather, algorithms are trained until they are able to render new climate imaginaries in textual and visual form. The edited texts and curated images are further developed into audio stories and a tarot deck as tools for reflection on present and future living with a changing climate."*
   - [Becoming Planetary](https://www.e-flux.com/architecture/accumulation/217051/becoming-planetary/) by [Jennifer Gabrys](https://research.sociology.cam.ac.uk/profile/professor-jennifer-gabrys) - *"The forest, carbon, and media imaginaries that are captured in these different images tell diverse stories that span the remote, the durational, the extractive, the accumulative, the inhabited, and the contested"*
   - [Forest 404](https://www.bbc.co.uk/programmes/p06tqsg3) - *"Forest 404 is an immersive sci-fi thriller set in the 24th Century in a world where forests have been erased from history."*
